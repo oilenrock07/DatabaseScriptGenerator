@@ -1,0 +1,5 @@
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator\obj\Debug\DatabaseScriptGenerator.Connection.csprojResolveAssemblyReference.cache
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator\bin\Debug\DatabaseScriptGenerator.dll
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator\bin\Debug\DatabaseScriptGenerator.pdb
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator\obj\Debug\DatabaseScriptGenerator.dll
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator\obj\Debug\DatabaseScriptGenerator.pdb

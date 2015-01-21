@@ -1,0 +1,9 @@
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\bin\Debug\DatabaseScriptGenerator.Connection.Test.dll
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\bin\Debug\DatabaseScriptGenerator.Connection.Test.pdb
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\obj\Debug\DatabaseScriptGenerator.Connection.Test.csprojResolveAssemblyReference.cache
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\obj\Debug\DatabaseScriptGenerator.Connection.Test.dll
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\obj\Debug\DatabaseScriptGenerator.Connection.Test.pdb
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\bin\Debug\DatabaseScriptGenerator.dll
+c:\users\cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\bin\Debug\DatabaseScriptGenerator.pdb
+C:\Users\Cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\bin\Debug\DatabaseScriptGenerator.DataConverter.dll
+C:\Users\Cornelio\documents\visual studio 2013\Projects\DatabaseScriptGenerator\DatabaseScriptGenerator.Connection.Test\bin\Debug\DatabaseScriptGenerator.DataConverter.pdb
